@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hey, I'm Shivam Bande 👋
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Hey+I'm+Shivam+Bande!+👋;Aspiring+Software+Developer;Open+to+Internships+%26+Jobs!;Let's+build+something+great!)](https://git.io/typing-svg)
 **Full Stack Developer · Nagpur, Maharashtra**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-04040a?style=for-the-badge&logo=vercel&logoColor=b8ff3a)](https://zoro1225.github.io)
@@ -70,6 +70,18 @@
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoro1225&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a&icon_color=b8ff3a)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro1225&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a)
+## 🏆 GitHub Trophies
+
+[![Trophies](https://github-profile-trophy.vercel.app/?username=zoro1225&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+```
+
+---
+
+## 🐍 3. Snake Animation (3 steps)
+
+**Step 1** — In your `zoro1225/zoro1225` repo, create this folder structure by clicking **Add file → Create new file** and typing the full path:
+```
+.github/workflows/snake.yml
 
 </div>
 
