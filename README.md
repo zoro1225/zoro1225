@@ -2,6 +2,7 @@
 
 # Hey, I'm Shivam Bande 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Hey+I'm+Shivam+Bande!+👋;Aspiring+Software+Developer;Open+to+Internships+%26+Jobs!;Let's+build+something+great!)](https://git.io/typing-svg)
+
 **Full Stack Developer · Nagpur, Maharashtra**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-04040a?style=for-the-badge&logo=vercel&logoColor=b8ff3a)](https://zoro1225.github.io)
@@ -70,33 +71,3 @@
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoro1225&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a&icon_color=b8ff3a)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro1225&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a)
-## 🏆 GitHub Trophies
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=zoro1225&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: zoro1225
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
