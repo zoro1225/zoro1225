@@ -1,6 +1,5 @@
 <div align="center">
 
-# Hey, I'm Shivam Bande 👋
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&width=600&lines=Hey+I'm+Shivam+Bande!+👋;Aspiring+Software+Developer;Open+to+Internships+%26+Jobs!;Let's+build+something+great!)](https://git.io/typing-svg)
 
 **Full Stack Developer · Nagpur, Maharashtra**
