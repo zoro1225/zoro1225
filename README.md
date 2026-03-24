@@ -69,4 +69,4 @@
 
 ![Shivam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zoro1225&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a&icon_color=b8ff3a)
 
-![HTML | CSS | JavaScript ](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro1225&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zoro1225&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=04040a&title_color=b8ff3a&langs_count=5&hide=vue)
